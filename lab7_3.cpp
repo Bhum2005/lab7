@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//1
 char before(char x){
 	if(x>='A'&&x<='Z'){
 	    if(x=='A')
